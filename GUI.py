@@ -1,9 +1,3 @@
-#Project Members:
-#William D. Wells
-#Dan R. Vandiver
-#Connor Myers
-
-
 from tkinter import *
 from tkinter.scrolledtext import ScrolledText
 
